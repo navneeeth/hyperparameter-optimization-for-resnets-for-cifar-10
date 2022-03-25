@@ -11,5 +11,7 @@ You can also choose to upload the ipynb version of the code to a suitable enviro
 
 ## Python Libraries Requirements 
 1.Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+
 2.PyTorch is an open source machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
+
 3.NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices.
