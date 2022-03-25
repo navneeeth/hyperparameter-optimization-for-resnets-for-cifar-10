@@ -10,8 +10,8 @@ python resnet_model_train_and_test.py
 You can also choose to upload the ipynb version of the code to a suitable environment and run the only cell.
 
 ## Python Libraries Requirements 
-1.Matplotlib 
+1. Matplotlib 
 
-2.PyTorch - Torchvision 
+2. PyTorch - Torchvision 
 
-3.NumPy 
+3. NumPy 
