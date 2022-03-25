@@ -308,8 +308,7 @@ best_precision = 0
 #Run the epochs
 best_precision = run_epochs()
 print('The lowest error from model: {} after {} epochs is {error:.3f}'.format(args.arch,args.epochs, error=100-best_precision))
-model_save_name = 'ExpOne200EP8643.pt'
-#path = F"/content/gdrive/My Drive/{model_save_name}" 
+model_save_name = 'project1_model.pt'
 
 #Saving the generated model and testing its loading
 path = model_save_name
