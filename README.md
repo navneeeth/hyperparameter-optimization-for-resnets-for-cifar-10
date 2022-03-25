@@ -11,5 +11,7 @@ You can also choose to upload the ipynb version of the code to a suitable enviro
 
 ## Python Libraries Requirements 
 1.Matplotlib 
+
 2.PyTorch - Torchvision 
+
 3.NumPy 
