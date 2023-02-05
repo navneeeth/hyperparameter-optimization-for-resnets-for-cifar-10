@@ -9,9 +9,17 @@ python resnet_model_train_and_test.py
 ```
 You can also choose to upload the ipynb version of the code to a suitable environment and run the only cell.
 
+ **About this project**
+ 
+Designed a ResNet architecture for CIFAR-10 dataset image classification with the constraint on parameter count 
+of 5 M. Resnet architecture is based on the concept of Residual Blocks. Tackled the CIFAR-10 dataset of 60k images using the PyTorch framework and performed calculations on images 
+through NumPy. Visualized the performance for various models using Python’s visualization library Matplotlib.Acquired an accuracy of 95% by using different data augmentation techniques and different optimizers while 
+designing the ResNet architecture. 
+
 ## Python Libraries Requirements 
 1. Matplotlib 
 
 2. PyTorch - Torchvision 
 
 3. NumPy 
+
