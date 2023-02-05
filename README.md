@@ -11,10 +11,16 @@ You can also choose to upload the ipynb version of the code to a suitable enviro
 
  **About this project**
  
-Designed a ResNet architecture for CIFAR-10 dataset image classification with the constraint on parameter count 
-of 5 M. Resnet architecture is based on the concept of Residual Blocks. Tackled the CIFAR-10 dataset of 60k images using the PyTorch framework and performed calculations on images 
-through NumPy. Visualized the performance for various models using Python’s visualization library Matplotlib.Acquired an accuracy of 95% by using different data augmentation techniques and different optimizers while 
-designing the ResNet architecture. 
+Image Processing is a growing domain among research topics in Deep Learning with
+competitive innovations in Convolutional Neural Networks, Artificial Neural Networks,
+& related domains. Atop the underlying principle of establishing patterns in pixel
+representations of images, researchers have placed significant confidence in a technique
+called ResNets (Residual Neural Networks). We present one of such ResNet models with
+optimal accuracy on a standard CIFAR-10 dataset under a constraint on parameter count
+while presenting milestones in augmenting the approach & describing behaviours in
+model performance.Acquired an accuracy of 95% by using different data augmentation techniques and different optimizers while 
+designing the ResNet architecture
+
 
 ## Python Libraries Requirements 
 1. Matplotlib 
