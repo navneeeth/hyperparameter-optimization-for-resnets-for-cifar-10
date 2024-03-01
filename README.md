@@ -18,8 +18,8 @@ representations of images, researchers have placed significant confidence in a t
 called ResNets (Residual Neural Networks). We present one of such ResNet models with
 optimal accuracy on a standard CIFAR-10 dataset under a constraint on parameter count
 while presenting milestones in augmenting the approach & describing behaviours in
-model performance. Acquired an accuracy of 95% by using different data augmentation techniques and different optimizers while 
-designing the ResNet architecture
+model performance. Acquired a test accuracy of 95% by using different data augmentation techniques and different optimizers while 
+designing the ResNet architecture.
 
 
 ## Python Libraries Requirements 
